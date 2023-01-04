@@ -315,7 +315,7 @@ a {
 /* ========= Stats ========== */
 .stats {
     margin-top: 75px;
-    padding: 75px 0;
+    padding: 75px 0 50px;
 }
 .stats .content {
     width: 1048px;
@@ -444,7 +444,7 @@ a {
 
 /* ==============S ubscription ================ */
 .subscription {
-    margin-top: 90px;
+    margin-top: 80px;
     
 }
 .subscription .body {
